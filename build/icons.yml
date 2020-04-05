@@ -148,6 +148,7 @@
 - helper: Medal
 - helper: Merge
 - helper: Message
+- helper: Meta
 - helper: Microsoft
 - helper: MicrosoftTeams
 - helper: Migrate
